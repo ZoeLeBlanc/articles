@@ -1,0 +1,46 @@
+
+.first {
+	background: rgba(252,234,187,1);
+	font-family: sans-serif;
+	font-size: 1em;
+	color: #FFF;
+	line-height: 1em;
+	padding: 1em;
+	border-radius: 1em;
+}
+.second {
+	background: rgba(235,233,249,1);
+	font-family: serif;
+	font-size: 1.2em;
+	color: rgba(134,174,204,1);
+	line-height: 1.2em;
+	padding: 1.2em;
+	border-radius: 2em;
+}
+.third{
+	background: rgba(252,236,252,1);
+	font-family: sans-serif;
+	font-size: 1.4em;
+	color: rgba(255,124,216,1);
+	line-height: 1.4em;
+	padding: 1.4em;
+	border-radius: 3em;
+}
+.fourth {
+	background: rgba(212,228,239,1);
+	font-family: serif;
+	font-size: 1.6em;
+	color: rgba(190,201,234,1);
+	line-height: 1.6em;
+	padding: 1.6em;
+	border-radius: 4em;
+}
+.fifth {
+	background: rgba(147,206,222,1);
+	font-family: serif;
+	font-size: 1.8em;
+	color: rgba(73,165,191,1);
+	line-height: 1.8em;
+	padding: 1.8em;
+	border-radius: 5em;
+}
